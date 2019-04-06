@@ -17,8 +17,12 @@ body{
 ul{
     list-style: none;
 }
-li img {
+.social__media__contact img {
     width: 30px;
+    margin-right: 17px;
+}
+.contact__us img{
+    width: 20px;
     margin-right: 17px;
 }
 li {
